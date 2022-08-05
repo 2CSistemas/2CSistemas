@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/2CSistemas/64fe05d1-fd11-44c4-9fa6-9d8f266ce6e9/8dbee31e-37c0-4a69-b262-ee11552d93f7/_apis/work/boardbadge/20990763-66b7-4707-983b-c407d01bdcbf)](https://dev.azure.com/2CSistemas/64fe05d1-fd11-44c4-9fa6-9d8f266ce6e9/_boards/board/t/8dbee31e-37c0-4a69-b262-ee11552d93f7/Microsoft.RequirementCategory)
 ### Hi there 👋
 
 <!--
